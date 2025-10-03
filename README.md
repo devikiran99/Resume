@@ -1,3 +1,3 @@
 Resume View:    
-[View My PDF](./Devikiran_Shetty_PN.pdf)
+[click here](./Devikiran_Shetty_PN.pdf)
 
