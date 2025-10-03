@@ -1,1 +1,4 @@
-[View My PDF](./Devikiran_Shetty_PN.pdf)
+
+
+![App Screenshot](./Screenshot 2025-09-27 213205.png)
+
